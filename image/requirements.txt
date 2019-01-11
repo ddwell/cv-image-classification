@@ -1,0 +1,11 @@
+numpy
+pillow>=5.1.0
+torch
+torchvision
+Django==2.0.2
+djangorestframework
+psycopg2
+pyqrcode
+pypng
+
+
